@@ -1,2 +1,0 @@
-# CyberSecDocs
-ELK Stack 
